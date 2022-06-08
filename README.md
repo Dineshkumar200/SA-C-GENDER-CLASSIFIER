@@ -88,7 +88,9 @@ while cv2.waitKey(1)<0 :
         gender=genderList[genderPreds[0].argmax()]
         print(f'Gender: {gender}')
         cv2.putText(resultImg, f'{gender}', (faceBox[0], faceBox[1]-10), cv2.FONT_HERSHEY_SIMPLEX, 0.8, (0,255,255), 2, cv2.LINE_AA)
-        cv2.imshow("Detecting age and gender", resultImg)
+        plt.axis("off")
+        plt.title('Original image')
+        plt.imshow(resultImg)
 ```
 
 ## Output
