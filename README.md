@@ -91,12 +91,12 @@ while cv2.waitKey(1)<0 :
 
 ## Output
 
-1.code:
+
 
 ![Screenshot 2022-06-08 190140](https://user-images.githubusercontent.com/75235789/172630280-dd7ffa93-8c41-4730-b180-99e165b965d5.jpg)
 ![Screenshot 2022-06-08 190210](https://user-images.githubusercontent.com/75235789/172630292-6d02de4a-2369-443a-acda-1fc001f994ac.jpg)
 
 
 
-https://youtu.be/enRnj8orlPU
+
 
