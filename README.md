@@ -13,6 +13,8 @@
 
 6.Test the model upon various humans images.
 
+7.Display th output Whether the image male or female
+
 ## Program:
 ```
 /*
