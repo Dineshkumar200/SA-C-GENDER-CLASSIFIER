@@ -17,8 +17,8 @@
 ```
 /*
 Program to implement 
-Developed by   : Kumaravel V
-RegisterNumber :  212220230027
+Developed by   : Dineshkumar V
+RegisterNumber :  212220230013
 */
 ```
 
@@ -91,8 +91,7 @@ while cv2.waitKey(1)<0 :
         cv2.putText(resultImg, f'{gender}', (faceBox[0], faceBox[1]-10), cv2.FONT_HERSHEY_SIMPLEX, 0.8, (0,255,255), 2, cv2.LINE_AA)
         cv2.imshow("Detecting age and gender", resultImg)
 ```
-![Screenshot (159)](https://user-images.githubusercontent.com/75235334/172531893-be2cee38-4582-47b9-84c7-b516968a9617.png)
-![Screenshot (160)](https://user-images.githubusercontent.com/75235334/172531969-3eeb4dcd-0123-424d-9a30-ebb8a0b2c97a.png)
+
 
 
 2. DEMO VIDEO YOUTUBE LINK:
